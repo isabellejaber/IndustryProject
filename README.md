@@ -3,3 +3,6 @@ This event was a 24-hour hackathon at BrainStation. With a diverse team of softw
 
 
 Please visit this link to our full presentation for access to the UX designers' prototype and the software engineers' functional prototype. https://www.figma.com/slides/Qmw5ufc3TJolzKUMPr2ckh/Team_Cash_IP_Presentation?node-id=44-29&t=jYgxPKcHzMIvAwdd-1
+
+
+UPDATE: This project won the BrainStation Hackathon Challenge!
